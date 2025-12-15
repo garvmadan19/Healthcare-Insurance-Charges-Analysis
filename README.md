@@ -42,5 +42,5 @@ The core libraries used in the notebook include:
  - sklearn.preprocessing.OrdinalEncoder
  - sklearn.linear_model.Ridge
  - sklearn.ensemble.GradientBoostingRegressor
-•	sklearn.metrics.mean_squared_error
+ - sklearn.metrics.mean_squared_error
 
